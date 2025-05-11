@@ -1,0 +1,12 @@
+{
+  "id" : 102,
+  "transactionReference" : "TXN1746868947795",
+  "sourceAccount" : "2042587477",
+  "targetAccount" : null,
+  "amount" : 1000,
+  "balanceAfterTransaction" : 159000.0,
+  "type" : "DEPOSIT",
+  "status" : "SUCCESS",
+  "description" : "salary credited from json",
+  "transactionDate" : "2025-05-10T09:22:27.795092405"
+}

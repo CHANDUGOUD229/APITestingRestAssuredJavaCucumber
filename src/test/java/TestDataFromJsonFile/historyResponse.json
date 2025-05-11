@@ -1,0 +1,64 @@
+{
+  "content" : [ {
+    "id" : 48,
+    "transactionReference" : "TXN1745206621625",
+    "sourceAccount" : "2042587477",
+    "targetAccount" : null,
+    "amount" : 55000.0,
+    "balanceAfterTransaction" : 55000.0,
+    "type" : "DEPOSIT",
+    "status" : "SUCCESS",
+    "description" : "y our salary credited",
+    "transactionDate" : "2025-04-21T03:37:01.625446"
+  }, {
+    "id" : 49,
+    "transactionReference" : "TXN1745206763942",
+    "sourceAccount" : "2042587477",
+    "targetAccount" : null,
+    "amount" : 100.0,
+    "balanceAfterTransaction" : 55100.0,
+    "type" : "DEPOSIT",
+    "status" : "SUCCESS",
+    "description" : "y our salary credited",
+    "transactionDate" : "2025-04-21T03:39:23.942345"
+  }, {
+    "id" : 50,
+    "transactionReference" : "TXN1745206872903",
+    "sourceAccount" : "2042587477",
+    "targetAccount" : null,
+    "amount" : 50.0,
+    "balanceAfterTransaction" : 55150.0,
+    "type" : "DEPOSIT",
+    "status" : "SUCCESS",
+    "description" : "testing under proceses",
+    "transactionDate" : "2025-04-21T03:41:12.903616"
+  }, {
+    "id" : 51,
+    "transactionReference" : "TXN1745207415723",
+    "sourceAccount" : "2042587477",
+    "targetAccount" : null,
+    "amount" : 500.0,
+    "balanceAfterTransaction" : 55650.0,
+    "type" : "DEPOSIT",
+    "status" : "SUCCESS",
+    "description" : "transeformed amount ",
+    "transactionDate" : "2025-04-21T03:50:15.723988"
+  }, {
+    "id" : 52,
+    "transactionReference" : "TXN1745207486173",
+    "sourceAccount" : "2042587477",
+    "targetAccount" : null,
+    "amount" : 500.0,
+    "balanceAfterTransaction" : 56150.0,
+    "type" : "DEPOSIT",
+    "status" : "SUCCESS",
+    "description" : "transeformed amount ",
+    "transactionDate" : "2025-04-21T03:51:26.173638"
+  } ],
+  "page" : {
+    "size" : 5,
+    "number" : 0,
+    "totalElements" : 27,
+    "totalPages" : 6
+  }
+}

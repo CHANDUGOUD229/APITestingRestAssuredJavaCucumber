@@ -1,0 +1,12 @@
+{
+  "id" : 95,
+  "transactionReference" : "TXN1746545565168",
+  "sourceAccount" : "2042587477",
+  "targetAccount" : null,
+  "amount" : 5000,
+  "balanceAfterTransaction" : 155000.0,
+  "type" : "WITHDRAWAL",
+  "status" : "SUCCESS",
+  "description" : "from your account 5000/ debited",
+  "transactionDate" : "2025-05-06T15:32:45.168121678"
+}

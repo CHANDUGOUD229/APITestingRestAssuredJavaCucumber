@@ -1,0 +1,12 @@
+{
+  "id" : 78,
+  "transactionReference" : "TXN1745240121094",
+  "sourceAccount" : "9257143944",
+  "targetAccount" : "2042587477",
+  "amount" : 5000,
+  "balanceAfterTransaction" : 14000.0,
+  "type" : "TRANSFER_OUT",
+  "status" : "SUCCESS",
+  "description" : "money trancefer succefully",
+  "transactionDate" : "2025-04-21T12:55:21.094062936"
+}
