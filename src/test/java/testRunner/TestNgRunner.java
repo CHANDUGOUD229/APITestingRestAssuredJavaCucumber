@@ -11,7 +11,7 @@ import io.cucumber.testng.CucumberOptions;
         dryRun = false,
         plugin = {"pretty","html:target/cucumber-reports/cucumber.html",
         "io.qameta.allure.cucumber7jvm.AllureCucumber7Jvm",
-        "com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:target/extent-report/extentReport.html"}
+        "com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:target/cucumber-reports/extent-report.html"}
 )
 public class TestNgRunner extends AbstractTestNGCucumberTests {
 }
